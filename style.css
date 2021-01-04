@@ -10,6 +10,11 @@ h1{
    
 }
 
+h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
 .name_hero{
     color:orange;
 }
@@ -36,6 +41,7 @@ h1{
 section{
 
     height:500px;
+    padding-bottom: 150px;
 }
 
 .btn{
@@ -46,3 +52,15 @@ section{
     border-radius: 5px;
     color: white;
 }
+
+.dream-big{
+
+    background-image: url('images/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+p{
+    color:dimgray;
+}
+
