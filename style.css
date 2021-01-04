@@ -37,3 +37,12 @@ section{
 
     height:500px;
 }
+
+.btn{
+
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
